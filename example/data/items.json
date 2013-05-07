@@ -1,0 +1,2312 @@
+[
+  {
+    "image": "blocks/activatorRail.png",
+    "name": "activatorrail",
+    "has": 0
+  },
+  {
+    "image": "blocks/activatorRail_powered.png",
+    "name": "activatorrail_powered",
+    "has": 0
+  },
+  {
+    "image": "blocks/anvil_base.png",
+    "name": "anvil_base",
+    "has": 0
+  },
+  {
+    "image": "blocks/anvil_top.png",
+    "name": "anvil_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/anvil_top_damaged_1.png",
+    "name": "anvil_top_damaged_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/anvil_top_damaged_2.png",
+    "name": "anvil_top_damaged_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/beacon.png",
+    "name": "beacon",
+    "has": 0
+  },
+  {
+    "image": "blocks/bed_feet_end.png",
+    "name": "bed_feet_end",
+    "has": 0
+  },
+  {
+    "image": "blocks/bed_feet_side.png",
+    "name": "bed_feet_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/bed_feet_top.png",
+    "name": "bed_feet_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/bed_head_end.png",
+    "name": "bed_head_end",
+    "has": 0
+  },
+  {
+    "image": "blocks/bed_head_side.png",
+    "name": "bed_head_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/bed_head_top.png",
+    "name": "bed_head_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/bedrock.png",
+    "name": "bedrock",
+    "has": 0
+  },
+  {
+    "image": "blocks/blockDiamond.png",
+    "name": "diamond block",
+    "has": 0
+  },
+  {
+    "image": "blocks/blockEmerald.png",
+    "name": "emerald block",
+    "has": 0
+  },
+  {
+    "image": "blocks/blockGold.png",
+    "name": "gold block",
+    "has": 0
+  },
+  {
+    "image": "blocks/blockIron.png",
+    "name": "iron block",
+    "has": 0
+  },
+  {
+    "image": "blocks/blockLapis.png",
+    "name": "lapis block",
+    "has": 0
+  },
+  {
+    "image": "blocks/blockRedstone.png",
+    "name": "redstone block",
+    "has": 0
+  },
+  {
+    "image": "blocks/bookshelf.png",
+    "name": "bookshelf",
+    "has": 0
+  },
+  {
+    "image": "blocks/brewingStand.png",
+    "name": "brewingstand",
+    "has": 0
+  },
+  {
+    "image": "blocks/brewingStand_base.png",
+    "name": "brewingstand_base",
+    "has": 0
+  },
+  {
+    "image": "blocks/brick.png",
+    "name": "brick",
+    "has": 0
+  },
+  {
+    "image": "blocks/cactus_bottom.png",
+    "name": "cactus_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/cactus_side.png",
+    "name": "cactus_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/cactus_top.png",
+    "name": "cactus_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/cake_bottom.png",
+    "name": "cake_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/cake_inner.png",
+    "name": "cake_inner",
+    "has": 0
+  },
+  {
+    "image": "blocks/cake_side.png",
+    "name": "cake_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/cake_top.png",
+    "name": "cake_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/carrots_0.png",
+    "name": "carrots_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/carrots_1.png",
+    "name": "carrots_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/carrots_2.png",
+    "name": "carrots_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/carrots_3.png",
+    "name": "carrots_3",
+    "has": 0
+  },
+  {
+    "image": "blocks/cauldron_bottom.png",
+    "name": "cauldron_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/cauldron_inner.png",
+    "name": "cauldron_inner",
+    "has": 0
+  },
+  {
+    "image": "blocks/cauldron_side.png",
+    "name": "cauldron_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/cauldron_top.png",
+    "name": "cauldron_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/clay.png",
+    "name": "clay",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_0.png",
+    "name": "cloth_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_1.png",
+    "name": "cloth_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_10.png",
+    "name": "cloth_10",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_11.png",
+    "name": "cloth_11",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_12.png",
+    "name": "cloth_12",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_13.png",
+    "name": "cloth_13",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_14.png",
+    "name": "cloth_14",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_15.png",
+    "name": "cloth_15",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_2.png",
+    "name": "cloth_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_3.png",
+    "name": "cloth_3",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_4.png",
+    "name": "cloth_4",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_5.png",
+    "name": "cloth_5",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_6.png",
+    "name": "cloth_6",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_7.png",
+    "name": "cloth_7",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_8.png",
+    "name": "cloth_8",
+    "has": 0
+  },
+  {
+    "image": "blocks/cloth_9.png",
+    "name": "cloth_9",
+    "has": 0
+  },
+  {
+    "image": "blocks/cocoa_0.png",
+    "name": "cocoa_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/cocoa_1.png",
+    "name": "cocoa_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/cocoa_2.png",
+    "name": "cocoa_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/commandBlock.png",
+    "name": "commandblock",
+    "has": 0
+  },
+  {
+    "image": "blocks/comparator.png",
+    "name": "comparator",
+    "has": 0
+  },
+  {
+    "image": "blocks/comparator_lit.png",
+    "name": "comparator_lit",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_0.png",
+    "name": "crops_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_1.png",
+    "name": "crops_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_2.png",
+    "name": "crops_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_3.png",
+    "name": "crops_3",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_4.png",
+    "name": "crops_4",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_5.png",
+    "name": "crops_5",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_6.png",
+    "name": "crops_6",
+    "has": 0
+  },
+  {
+    "image": "blocks/crops_7.png",
+    "name": "crops_7",
+    "has": 0
+  },
+  {
+    "image": "blocks/daylightDetector_side.png",
+    "name": "daylightdetector_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/daylightDetector_top.png",
+    "name": "daylightdetector_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/deadbush.png",
+    "name": "deadbush",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_0.png",
+    "name": "destroy_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_1.png",
+    "name": "destroy_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_2.png",
+    "name": "destroy_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_3.png",
+    "name": "destroy_3",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_4.png",
+    "name": "destroy_4",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_5.png",
+    "name": "destroy_5",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_6.png",
+    "name": "destroy_6",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_7.png",
+    "name": "destroy_7",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_8.png",
+    "name": "destroy_8",
+    "has": 0
+  },
+  {
+    "image": "blocks/destroy_9.png",
+    "name": "destroy_9",
+    "has": 0
+  },
+  {
+    "image": "blocks/detectorRail.png",
+    "name": "detectorrail",
+    "has": 0
+  },
+  {
+    "image": "blocks/detectorRail_on.png",
+    "name": "detectorrail_on",
+    "has": 0
+  },
+  {
+    "image": "blocks/dirt.png",
+    "name": "dirt",
+    "has": 64
+  },
+  {
+    "image": "blocks/dispenser_front.png",
+    "name": "dispenser_front",
+    "has": 0
+  },
+  {
+    "image": "blocks/dispenser_front_vertical.png",
+    "name": "dispenser_front_vertical",
+    "has": 0
+  },
+  {
+    "image": "blocks/doorIron_lower.png",
+    "name": "dooriron_lower",
+    "has": 0
+  },
+  {
+    "image": "blocks/doorIron_upper.png",
+    "name": "dooriron_upper",
+    "has": 0
+  },
+  {
+    "image": "blocks/doorWood_lower.png",
+    "name": "doorwooden_lower",
+    "has": 0
+  },
+  {
+    "image": "blocks/doorWood_upper.png",
+    "name": "doorwooden_upper",
+    "has": 0
+  },
+  {
+    "image": "blocks/dragonEgg.png",
+    "name": "dragonegg",
+    "has": 0
+  },
+  {
+    "image": "blocks/dropper_front.png",
+    "name": "dropper_front",
+    "has": 0
+  },
+  {
+    "image": "blocks/dropper_front_vertical.png",
+    "name": "dropper_front_vertical",
+    "has": 0
+  },
+  {
+    "image": "blocks/enchantment_bottom.png",
+    "name": "enchantment_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/enchantment_side.png",
+    "name": "enchantment_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/enchantment_top.png",
+    "name": "enchantment_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/endframe_eye.png",
+    "name": "endframe_eye",
+    "has": 0
+  },
+  {
+    "image": "blocks/endframe_side.png",
+    "name": "endframe_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/endframe_top.png",
+    "name": "endframe_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/farmland_dry.png",
+    "name": "farmland_dry",
+    "has": 0
+  },
+  {
+    "image": "blocks/farmland_wet.png",
+    "name": "farmland_wet",
+    "has": 0
+  },
+  {
+    "image": "blocks/fenceIron.png",
+    "name": "fenceiron",
+    "has": 0
+  },
+  {
+    "image": "blocks/fern.png",
+    "name": "fern",
+    "has": 0
+  },
+  {
+    "image": "blocks/fire_0.png",
+    "name": "fire_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/fire_0.txt",
+    "name": "fire_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/fire_1.png",
+    "name": "fire_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/fire_1.txt",
+    "name": "fire_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/flower.png",
+    "name": "flower",
+    "has": 0
+  },
+  {
+    "image": "blocks/flowerPot.png",
+    "name": "flowerpot",
+    "has": 0
+  },
+  {
+    "image": "blocks/furnace_front.png",
+    "name": "furnace",
+    "has": 0
+  },
+  {
+    "image": "blocks/furnace_front_lit.png",
+    "name": "furnace_front_lit",
+    "has": 0
+  },
+  {
+    "image": "blocks/furnace_side.png",
+    "name": "furnace_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/furnace_top.png",
+    "name": "furnace_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/glass.png",
+    "name": "glass",
+    "has": 0
+  },
+  {
+    "image": "blocks/goldenRail.png",
+    "name": "goldenrail",
+    "has": 0
+  },
+  {
+    "image": "blocks/goldenRail_powered.png",
+    "name": "goldenrail_powered",
+    "has": 0
+  },
+  {
+    "image": "blocks/grass_side.png",
+    "name": "grass_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/grass_side_overlay.png",
+    "name": "grass_side_overlay",
+    "has": 0
+  },
+  {
+    "image": "blocks/grass_top.png",
+    "name": "grass_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/gravel.png",
+    "name": "gravel",
+    "has": 0
+  },
+  {
+    "image": "blocks/hellrock.png",
+    "name": "hellrock",
+    "has": 0
+  },
+  {
+    "image": "blocks/hellsand.png",
+    "name": "hellsand",
+    "has": 0
+  },
+  {
+    "image": "blocks/hopper.png",
+    "name": "hopper",
+    "has": 0
+  },
+  {
+    "image": "blocks/hopper_inside.png",
+    "name": "hopper_inside",
+    "has": 0
+  },
+  {
+    "image": "blocks/hopper_top.png",
+    "name": "hopper_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/ice.png",
+    "name": "ice",
+    "has": 0
+  },
+  {
+    "image": "blocks/itemframe_back.png",
+    "name": "itemframe_back",
+    "has": 0
+  },
+  {
+    "image": "blocks/jukebox_top.png",
+    "name": "jukebox_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/ladder.png",
+    "name": "ladder",
+    "has": 0
+  },
+  {
+    "image": "blocks/lava.png",
+    "name": "lava",
+    "has": 0
+  },
+  {
+    "image": "blocks/lava.txt",
+    "name": "lava",
+    "has": 0
+  },
+  {
+    "image": "blocks/lava_flow.png",
+    "name": "lava_flow",
+    "has": 0
+  },
+  {
+    "image": "blocks/lava_flow.txt",
+    "name": "lava_flow",
+    "has": 0
+  },
+  {
+    "image": "blocks/leaves.png",
+    "name": "leaves",
+    "has": 0
+  },
+  {
+    "image": "blocks/leaves_jungle.png",
+    "name": "leaves_jungle",
+    "has": 0
+  },
+  {
+    "image": "blocks/leaves_jungle_opaque.png",
+    "name": "leaves_jungle_opaque",
+    "has": 0
+  },
+  {
+    "image": "blocks/leaves_opaque.png",
+    "name": "leaves_opaque",
+    "has": 0
+  },
+  {
+    "image": "blocks/leaves_spruce.png",
+    "name": "leaves_spruce",
+    "has": 0
+  },
+  {
+    "image": "blocks/leaves_spruce_opaque.png",
+    "name": "leaves_spruce_opaque",
+    "has": 0
+  },
+  {
+    "image": "blocks/lever.png",
+    "name": "lever",
+    "has": 0
+  },
+  {
+    "image": "blocks/lightgem.png",
+    "name": "lightgem",
+    "has": 0
+  },
+  {
+    "image": "blocks/melon_side.png",
+    "name": "melon_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/melon_top.png",
+    "name": "melon_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/mobSpawner.png",
+    "name": "mobspawner",
+    "has": 0
+  },
+  {
+    "image": "blocks/mushroom_brown.png",
+    "name": "mushroom_brown",
+    "has": 0
+  },
+  {
+    "image": "blocks/mushroom_inside.png",
+    "name": "mushroom_inside",
+    "has": 0
+  },
+  {
+    "image": "blocks/mushroom_red.png",
+    "name": "mushroom_red",
+    "has": 0
+  },
+  {
+    "image": "blocks/mushroom_skin_brown.png",
+    "name": "mushroom_skin_brown",
+    "has": 0
+  },
+  {
+    "image": "blocks/mushroom_skin_red.png",
+    "name": "mushroom_skin_red",
+    "has": 0
+  },
+  {
+    "image": "blocks/mushroom_skin_stem.png",
+    "name": "mushroom_skin_stem",
+    "has": 0
+  },
+  {
+    "image": "blocks/musicBlock.png",
+    "name": "musicblock",
+    "has": 0
+  },
+  {
+    "image": "blocks/mycel_side.png",
+    "name": "mycel_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/mycel_top.png",
+    "name": "mycel_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/netherBrick.png",
+    "name": "netherbrick",
+    "has": 0
+  },
+  {
+    "image": "blocks/netherquartz.png",
+    "name": "netherquartz",
+    "has": 0
+  },
+  {
+    "image": "blocks/netherStalk_0.png",
+    "name": "netherstalk_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/netherStalk_1.png",
+    "name": "netherstalk_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/netherStalk_2.png",
+    "name": "netherstalk_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/obsidian.png",
+    "name": "obsidian",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreCoal.png",
+    "name": "coal ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreDiamond.png",
+    "name": "diamond ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreEmerald.png",
+    "name": "emerald ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreGold.png",
+    "name": "gold ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreIron.png",
+    "name": "iron ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreLapis.png",
+    "name": "lapis ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/oreRedstone.png",
+    "name": "redstone ore",
+    "has": 0
+  },
+  {
+    "image": "blocks/piston_bottom.png",
+    "name": "piston_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/piston_inner_top.png",
+    "name": "piston_inner_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/piston_side.png",
+    "name": "piston_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/piston_top.png",
+    "name": "piston_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/piston_top_sticky.png",
+    "name": "piston_top_sticky",
+    "has": 0
+  },
+  {
+    "image": "blocks/portal.png",
+    "name": "portal",
+    "has": 0
+  },
+  {
+    "image": "blocks/portal.txt",
+    "name": "portal",
+    "has": 0
+  },
+  {
+    "image": "blocks/potatoes_0.png",
+    "name": "potatoes_0",
+    "has": 0
+  },
+  {
+    "image": "blocks/potatoes_1.png",
+    "name": "potatoes_1",
+    "has": 0
+  },
+  {
+    "image": "blocks/potatoes_2.png",
+    "name": "potatoes_2",
+    "has": 0
+  },
+  {
+    "image": "blocks/potatoes_3.png",
+    "name": "potatoes_3",
+    "has": 0
+  },
+  {
+    "image": "blocks/pumpkin_face.png",
+    "name": "pumpkin_face",
+    "has": 0
+  },
+  {
+    "image": "blocks/pumpkin_jack.png",
+    "name": "pumpkin_jack",
+    "has": 0
+  },
+  {
+    "image": "blocks/pumpkin_side.png",
+    "name": "pumpkin_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/pumpkin_top.png",
+    "name": "pumpkin_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_bottom.png",
+    "name": "quartzblock_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_chiseled.png",
+    "name": "quartzblock_chiseled",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_chiseled_top.png",
+    "name": "quartzblock_chiseled_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_lines.png",
+    "name": "quartzblock_lines",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_lines_top.png",
+    "name": "quartzblock_lines_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_side.png",
+    "name": "quartzblock_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/quartzblock_top.png",
+    "name": "quartzblock_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/rail.png",
+    "name": "rail",
+    "has": 0
+  },
+  {
+    "image": "blocks/rail_turn.png",
+    "name": "rail_turn",
+    "has": 0
+  },
+  {
+    "image": "blocks/redstoneDust_cross.png",
+    "name": "redstonedust_cross",
+    "has": 0
+  },
+  {
+    "image": "blocks/redstoneDust_cross_overlay.png",
+    "name": "redstonedust_cross_overlay",
+    "has": 0
+  },
+  {
+    "image": "blocks/redstoneDust_line.png",
+    "name": "redstonedust_line",
+    "has": 0
+  },
+  {
+    "image": "blocks/redstoneDust_line_overlay.png",
+    "name": "redstonedust_line_overlay",
+    "has": 0
+  },
+  {
+    "image": "blocks/redstoneLight.png",
+    "name": "redstonelight",
+    "has": 0
+  },
+  {
+    "image": "blocks/redstoneLight_lit.png",
+    "name": "redstonelight_lit",
+    "has": 0
+  },
+  {
+    "image": "blocks/redtorch.png",
+    "name": "redtorch",
+    "has": 0
+  },
+  {
+    "image": "blocks/redtorch_lit.png",
+    "name": "redtorch_lit",
+    "has": 0
+  },
+  {
+    "image": "blocks/reeds.png",
+    "name": "reeds",
+    "has": 0
+  },
+  {
+    "image": "blocks/repeater.png",
+    "name": "repeater",
+    "has": 0
+  },
+  {
+    "image": "blocks/repeater_lit.png",
+    "name": "repeater_lit",
+    "has": 0
+  },
+  {
+    "image": "blocks/rose.png",
+    "name": "rose",
+    "has": 0
+  },
+  {
+    "image": "blocks/sand.png",
+    "name": "sand",
+    "has": 0
+  },
+  {
+    "image": "blocks/sandstone_bottom.png",
+    "name": "sandstone_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/sandstone_carved.png",
+    "name": "sandstone_carved",
+    "has": 0
+  },
+  {
+    "image": "blocks/sandstone_side.png",
+    "name": "sandstone_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/sandstone_smooth.png",
+    "name": "sandstone_smooth",
+    "has": 0
+  },
+  {
+    "image": "blocks/sandstone_top.png",
+    "name": "sandstone_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/sapling.png",
+    "name": "sapling",
+    "has": 0
+  },
+  {
+    "image": "blocks/sapling_birch.png",
+    "name": "sapling_birch",
+    "has": 0
+  },
+  {
+    "image": "blocks/sapling_jungle.png",
+    "name": "sapling_jungle",
+    "has": 0
+  },
+  {
+    "image": "blocks/sapling_spruce.png",
+    "name": "sapling_spruce",
+    "has": 0
+  },
+  {
+    "image": "blocks/snow.png",
+    "name": "snow",
+    "has": 0
+  },
+  {
+    "image": "blocks/snow_side.png",
+    "name": "snow_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/sponge.png",
+    "name": "sponge",
+    "has": 0
+  },
+  {
+    "image": "blocks/stem_bent.png",
+    "name": "stem_bent",
+    "has": 0
+  },
+  {
+    "image": "blocks/stem_straight.png",
+    "name": "stem_straight",
+    "has": 0
+  },
+  {
+    "image": "blocks/stone.png",
+    "name": "cobblestone",
+    "has": 64
+  },
+  {
+    "image": "blocks/stonebrick.png",
+    "name": "stonebrick",
+    "has": 0
+  },
+  {
+    "image": "blocks/stonebricksmooth.png",
+    "name": "stonebricksmooth",
+    "has": 0
+  },
+  {
+    "image": "blocks/stonebricksmooth_carved.png",
+    "name": "stonebricksmooth_carved",
+    "has": 0
+  },
+  {
+    "image": "blocks/stonebricksmooth_cracked.png",
+    "name": "stonebricksmooth_cracked",
+    "has": 0
+  },
+  {
+    "image": "blocks/stonebricksmooth_mossy.png",
+    "name": "stonebricksmooth_mossy",
+    "has": 0
+  },
+  {
+    "image": "blocks/stoneMoss.png",
+    "name": "stonemoss",
+    "has": 0
+  },
+  {
+    "image": "blocks/stoneslab_side.png",
+    "name": "stoneslab_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/stoneslab_top.png",
+    "name": "stoneslab_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/tallgrass.png",
+    "name": "tallgrass",
+    "has": 0
+  },
+  {
+    "image": "blocks/thinglass_top.png",
+    "name": "thinglass_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/tnt_bottom.png",
+    "name": "tnt_bottom",
+    "has": 0
+  },
+  {
+    "image": "blocks/tnt_side.png",
+    "name": "tnt_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/tnt_top.png",
+    "name": "tnt_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/torch.png",
+    "name": "torch",
+    "has": 0
+  },
+  {
+    "image": "blocks/trapdoor.png",
+    "name": "trapdoor",
+    "has": 0
+  },
+  {
+    "image": "blocks/tree_birch.png",
+    "name": "tree_birch",
+    "has": 0
+  },
+  {
+    "image": "blocks/tree_jungle.png",
+    "name": "tree_jungle",
+    "has": 0
+  },
+  {
+    "image": "blocks/tree_side.png",
+    "name": "tree_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/tree_spruce.png",
+    "name": "tree_spruce",
+    "has": 0
+  },
+  {
+    "image": "blocks/tree_top.png",
+    "name": "tree_top",
+    "has": 0
+  },
+  {
+    "image": "blocks/tripWire.png",
+    "name": "tripwire",
+    "has": 0
+  },
+  {
+    "image": "blocks/tripWireSource.png",
+    "name": "tripwiresource",
+    "has": 0
+  },
+  {
+    "image": "blocks/vine.png",
+    "name": "vine",
+    "has": 0
+  },
+  {
+    "image": "blocks/water.png",
+    "name": "water",
+    "has": 0
+  },
+  {
+    "image": "blocks/water.txt",
+    "name": "water",
+    "has": 0
+  },
+  {
+    "image": "blocks/water_flow.png",
+    "name": "water_flow",
+    "has": 0
+  },
+  {
+    "image": "blocks/water_flow.txt",
+    "name": "water_flow",
+    "has": 0
+  },
+  {
+    "image": "blocks/waterlily.png",
+    "name": "waterlily",
+    "has": 0
+  },
+  {
+    "image": "blocks/web.png",
+    "name": "web",
+    "has": 0
+  },
+  {
+    "image": "blocks/whiteStone.png",
+    "name": "whitestone",
+    "has": 0
+  },
+  {
+    "image": "blocks/wood.png",
+    "name": "oak plank",
+    "has": 64
+  },
+  {
+    "image": "blocks/wood_birch.png",
+    "name": "wooden_birch",
+    "has": 0
+  },
+  {
+    "image": "blocks/wood_jungle.png",
+    "name": "wooden_jungle",
+    "has": 0
+  },
+  {
+    "image": "blocks/wood_spruce.png",
+    "name": "wooden_spruce",
+    "has": 0
+  },
+  {
+    "image": "blocks/workbench_front.png",
+    "name": "workbench_front",
+    "has": 0
+  },
+  {
+    "image": "blocks/workbench_side.png",
+    "name": "workbench_side",
+    "has": 0
+  },
+  {
+    "image": "blocks/workbench_top.png",
+    "name": "workbench_top",
+    "has": 0
+  },
+  {
+    "image": "items/apple.png",
+    "name": "apple",
+    "has": 0
+  },
+  {
+    "image": "items/appleGold.png",
+    "name": "applegold",
+    "has": 0
+  },
+  {
+    "image": "items/arrow.png",
+    "name": "arrow",
+    "has": 0
+  },
+  {
+    "image": "items/bed.png",
+    "name": "bed",
+    "has": 0
+  },
+  {
+    "image": "items/beefCooked.png",
+    "name": "beefcooked",
+    "has": 0
+  },
+  {
+    "image": "items/beefRaw.png",
+    "name": "beefraw",
+    "has": 0
+  },
+  {
+    "image": "items/blazePowder.png",
+    "name": "blazepowder",
+    "has": 0
+  },
+  {
+    "image": "items/blazeRod.png",
+    "name": "blazerod",
+    "has": 0
+  },
+  {
+    "image": "items/boat.png",
+    "name": "boat",
+    "has": 0
+  },
+  {
+    "image": "items/bone.png",
+    "name": "bone",
+    "has": 2
+  },
+  {
+    "image": "items/book.png",
+    "name": "book",
+    "has": 0
+  },
+  {
+    "image": "items/bootsChain.png",
+    "name": "chain boots",
+    "has": 0
+  },
+  {
+    "image": "items/bootsCloth.png",
+    "name": "cloth boots",
+    "has": 0
+  },
+  {
+    "image": "items/bootsCloth_overlay.png",
+    "name": "cloth_overlay boots",
+    "has": 0
+  },
+  {
+    "image": "items/bootsDiamond.png",
+    "name": "diamond boots",
+    "has": 0
+  },
+  {
+    "image": "items/bootsGold.png",
+    "name": "gold boots",
+    "has": 0
+  },
+  {
+    "image": "items/bootsIron.png",
+    "name": "iron boots",
+    "has": 0
+  },
+  {
+    "image": "items/bow.png",
+    "name": "bow",
+    "has": 0
+  },
+  {
+    "image": "items/bow_pull_0.png",
+    "name": "bow_pull_0",
+    "has": 0
+  },
+  {
+    "image": "items/bow_pull_1.png",
+    "name": "bow_pull_1",
+    "has": 0
+  },
+  {
+    "image": "items/bow_pull_2.png",
+    "name": "bow_pull_2",
+    "has": 0
+  },
+  {
+    "image": "items/bowl.png",
+    "name": "bowl",
+    "has": 0
+  },
+  {
+    "image": "items/bread.png",
+    "name": "bread",
+    "has": 0
+  },
+  {
+    "image": "items/brewingStand.png",
+    "name": "brewingstand",
+    "has": 0
+  },
+  {
+    "image": "items/brick.png",
+    "name": "brick",
+    "has": 0
+  },
+  {
+    "image": "items/bucket.png",
+    "name": "bucket",
+    "has": 0
+  },
+  {
+    "image": "items/bucketLava.png",
+    "name": "bucketlava",
+    "has": 0
+  },
+  {
+    "image": "items/bucketWater.png",
+    "name": "bucketwater",
+    "has": 0
+  },
+  {
+    "image": "items/cake.png",
+    "name": "cake",
+    "has": 0
+  },
+  {
+    "image": "items/carrotGolden.png",
+    "name": "carrotgolden",
+    "has": 0
+  },
+  {
+    "image": "items/carrotOnAStick.png",
+    "name": "carrotonastick",
+    "has": 0
+  },
+  {
+    "image": "items/carrots.png",
+    "name": "carrots",
+    "has": 0
+  },
+  {
+    "image": "items/cauldron.png",
+    "name": "cauldron",
+    "has": 0
+  },
+  {
+    "image": "items/chestplateChain.png",
+    "name": "chain chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/chestplateCloth.png",
+    "name": "cloth chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/chestplateCloth_overlay.png",
+    "name": "cloth_overlay chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/chestplateDiamond.png",
+    "name": "diamond chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/chestplateGold.png",
+    "name": "gold chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/chestplateIron.png",
+    "name": "iron chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/chickenCooked.png",
+    "name": "chickencooked",
+    "has": 0
+  },
+  {
+    "image": "items/chickenRaw.png",
+    "name": "chickenraw",
+    "has": 0
+  },
+  {
+    "image": "items/clay.png",
+    "name": "clay",
+    "has": 0
+  },
+  {
+    "image": "items/clock.png",
+    "name": "clock",
+    "has": 0
+  },
+  {
+    "image": "items/clock.txt",
+    "name": "clock",
+    "has": 0
+  },
+  {
+    "image": "items/coal.png",
+    "name": "coal",
+    "has": 64
+  },
+  {
+    "image": "items/comparator.png",
+    "name": "comparator",
+    "has": 0
+  },
+  {
+    "image": "items/compass.png",
+    "name": "compass",
+    "has": 0
+  },
+  {
+    "image": "items/compass.txt",
+    "name": "compass",
+    "has": 0
+  },
+  {
+    "image": "items/cookie.png",
+    "name": "cookie",
+    "has": 0
+  },
+  {
+    "image": "items/diamond.png",
+    "name": "diamond",
+    "has": 64
+  },
+  {
+    "image": "items/diode.png",
+    "name": "diode",
+    "has": 0
+  },
+  {
+    "image": "items/doorIron.png",
+    "name": "dooriron",
+    "has": 0
+  },
+  {
+    "image": "items/doorWood.png",
+    "name": "doorwooden",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_black.png",
+    "name": "dyepowder_black",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_blue.png",
+    "name": "dyepowder_blue",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_brown.png",
+    "name": "dyepowder_brown",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_cyan.png",
+    "name": "dyepowder_cyan",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_gray.png",
+    "name": "dyepowder_gray",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_green.png",
+    "name": "dyepowder_green",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_lightBlue.png",
+    "name": "dyepowder_lightblue",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_lime.png",
+    "name": "dyepowder_lime",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_magenta.png",
+    "name": "dyepowder_magenta",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_orange.png",
+    "name": "dyepowder_orange",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_pink.png",
+    "name": "dyepowder_pink",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_purple.png",
+    "name": "dyepowder_purple",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_red.png",
+    "name": "dyepowder_red",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_silver.png",
+    "name": "dyepowder_silver",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_white.png",
+    "name": "dyepowder_white",
+    "has": 0
+  },
+  {
+    "image": "items/dyePowder_yellow.png",
+    "name": "dyepowder_yellow",
+    "has": 0
+  },
+  {
+    "image": "items/egg.png",
+    "name": "egg",
+    "has": 0
+  },
+  {
+    "image": "items/emerald.png",
+    "name": "emerald",
+    "has": 0
+  },
+  {
+    "image": "items/emptyMap.png",
+    "name": "emptymap",
+    "has": 0
+  },
+  {
+    "image": "items/enchantedBook.png",
+    "name": "enchantedbook",
+    "has": 0
+  },
+  {
+    "image": "items/enderPearl.png",
+    "name": "enderpearl",
+    "has": 0
+  },
+  {
+    "image": "items/expBottle.png",
+    "name": "expbottle",
+    "has": 0
+  },
+  {
+    "image": "items/eyeOfEnder.png",
+    "name": "eyeofender",
+    "has": 0
+  },
+  {
+    "image": "items/feather.png",
+    "name": "feather",
+    "has": 0
+  },
+  {
+    "image": "items/fermentedSpiderEye.png",
+    "name": "fermentedspidereye",
+    "has": 0
+  },
+  {
+    "image": "items/fireball.png",
+    "name": "fireball",
+    "has": 0
+  },
+  {
+    "image": "items/fireworks.png",
+    "name": "fireworks",
+    "has": 0
+  },
+  {
+    "image": "items/fireworksCharge.png",
+    "name": "fireworkscharge",
+    "has": 0
+  },
+  {
+    "image": "items/fireworksCharge_overlay.png",
+    "name": "fireworkscharge_overlay",
+    "has": 0
+  },
+  {
+    "image": "items/fishCooked.png",
+    "name": "fishcooked",
+    "has": 0
+  },
+  {
+    "image": "items/fishingRod.png",
+    "name": "fishingrod",
+    "has": 0
+  },
+  {
+    "image": "items/fishingRod_empty.png",
+    "name": "fishingrod_empty",
+    "has": 0
+  },
+  {
+    "image": "items/fishRaw.png",
+    "name": "fishraw",
+    "has": 0
+  },
+  {
+    "image": "items/flint.png",
+    "name": "flint",
+    "has": 0
+  },
+  {
+    "image": "items/flintAndSteel.png",
+    "name": "flintandsteel",
+    "has": 0
+  },
+  {
+    "image": "items/flowerPot.png",
+    "name": "flowerpot",
+    "has": 0
+  },
+  {
+    "image": "items/frame.png",
+    "name": "frame",
+    "has": 0
+  },
+  {
+    "image": "items/ghastTear.png",
+    "name": "ghasttear",
+    "has": 0
+  },
+  {
+    "image": "items/glassBottle.png",
+    "name": "glassbottle",
+    "has": 0
+  },
+  {
+    "image": "items/goldNugget.png",
+    "name": "goldnugget",
+    "has": 0
+  },
+  {
+    "image": "items/hatchetDiamond.png",
+    "name": "diamond axe",
+    "has": 0
+  },
+  {
+    "image": "items/hatchetGold.png",
+    "name": "gold axe",
+    "has": 0
+  },
+  {
+    "image": "items/hatchetIron.png",
+    "name": "iron axe",
+    "has": 0
+  },
+  {
+    "image": "items/hatchetStone.png",
+    "name": "stone axe",
+    "has": 0
+  },
+  {
+    "image": "items/hatchetWood.png",
+    "name": "wooden axe",
+    "has": 0
+  },
+  {
+    "image": "items/helmetChain.png",
+    "name": "chain helmet",
+    "has": 0
+  },
+  {
+    "image": "items/helmetCloth.png",
+    "name": "cloth helmet",
+    "has": 0
+  },
+  {
+    "image": "items/helmetCloth_overlay.png",
+    "name": "cloth_overlay helmet",
+    "has": 0
+  },
+  {
+    "image": "items/helmetDiamond.png",
+    "name": "diamond helmet",
+    "has": 0
+  },
+  {
+    "image": "items/helmetGold.png",
+    "name": "gold helmet",
+    "has": 0
+  },
+  {
+    "image": "items/helmetIron.png",
+    "name": "iron helmet",
+    "has": 0
+  },
+  {
+    "image": "items/hoeDiamond.png",
+    "name": "diamond hoe",
+    "has": 0
+  },
+  {
+    "image": "items/hoeGold.png",
+    "name": "gold hoe",
+    "has": 0
+  },
+  {
+    "image": "items/hoeIron.png",
+    "name": "iron hoe",
+    "has": 0
+  },
+  {
+    "image": "items/hoeStone.png",
+    "name": "stone hoe",
+    "has": 0
+  },
+  {
+    "image": "items/hoeWood.png",
+    "name": "wooden hoe",
+    "has": 0
+  },
+  {
+    "image": "items/hopper.png",
+    "name": "hopper",
+    "has": 0
+  },
+  {
+    "image": "items/ingotGold.png",
+    "name": "ingotgold",
+    "has": 0
+  },
+  {
+    "image": "items/ingotIron.png",
+    "name": "ingotiron",
+    "has": 0
+  },
+  {
+    "image": "items/leather.png",
+    "name": "leather",
+    "has": 0
+  },
+  {
+    "image": "items/leggingsChain.png",
+    "name": "chain leggings",
+    "has": 0
+  },
+  {
+    "image": "items/leggingsCloth.png",
+    "name": "cloth leggings",
+    "has": 0
+  },
+  {
+    "image": "items/leggingsCloth_overlay.png",
+    "name": "cloth_overlay leggings",
+    "has": 0
+  },
+  {
+    "image": "items/leggingsDiamond.png",
+    "name": "diamond leggings",
+    "has": 0
+  },
+  {
+    "image": "items/leggingsGold.png",
+    "name": "gold leggings",
+    "has": 0
+  },
+  {
+    "image": "items/leggingsIron.png",
+    "name": "iron leggings",
+    "has": 0
+  },
+  {
+    "image": "items/magmaCream.png",
+    "name": "magmacream",
+    "has": 0
+  },
+  {
+    "image": "items/map.png",
+    "name": "map",
+    "has": 0
+  },
+  {
+    "image": "items/melon.png",
+    "name": "melon",
+    "has": 0
+  },
+  {
+    "image": "items/milk.png",
+    "name": "milk",
+    "has": 0
+  },
+  {
+    "image": "items/minecart.png",
+    "name": "minecart",
+    "has": 0
+  },
+  {
+    "image": "items/minecartChest.png",
+    "name": "minecartchest",
+    "has": 0
+  },
+  {
+    "image": "items/minecartFurnace.png",
+    "name": "minecartfurnace",
+    "has": 0
+  },
+  {
+    "image": "items/minecartHopper.png",
+    "name": "minecarthopper",
+    "has": 0
+  },
+  {
+    "image": "items/minecartTnt.png",
+    "name": "minecarttnt",
+    "has": 0
+  },
+  {
+    "image": "items/monsterPlacer.png",
+    "name": "monsterplacer",
+    "has": 0
+  },
+  {
+    "image": "items/monsterPlacer_overlay.png",
+    "name": "monsterplacer_overlay",
+    "has": 0
+  },
+  {
+    "image": "items/mushroomStew.png",
+    "name": "mushroomstew",
+    "has": 0
+  },
+  {
+    "image": "items/netherbrick.png",
+    "name": "netherbrick",
+    "has": 0
+  },
+  {
+    "image": "items/netherquartz.png",
+    "name": "netherquartz",
+    "has": 0
+  },
+  {
+    "image": "items/netherStalkSeeds.png",
+    "name": "netherstalkseeds",
+    "has": 0
+  },
+  {
+    "image": "items/netherStar.png",
+    "name": "netherstar",
+    "has": 0
+  },
+  {
+    "image": "items/painting.png",
+    "name": "painting",
+    "has": 0
+  },
+  {
+    "image": "items/paper.png",
+    "name": "paper",
+    "has": 0
+  },
+  {
+    "image": "items/pickaxeDiamond.png",
+    "name": "diamond pickaxe",
+    "has": 0
+  },
+  {
+    "image": "items/pickaxeGold.png",
+    "name": "gold pickaxe",
+    "has": 0
+  },
+  {
+    "image": "items/pickaxeIron.png",
+    "name": "iron pickaxe",
+    "has": 0
+  },
+  {
+    "image": "items/pickaxeStone.png",
+    "name": "stone pickaxe",
+    "has": 0
+  },
+  {
+    "image": "items/pickaxeWood.png",
+    "name": "wooden pickaxe",
+    "has": 0
+  },
+  {
+    "image": "items/porkchopCooked.png",
+    "name": "porkchopcooked",
+    "has": 0
+  },
+  {
+    "image": "items/porkchopRaw.png",
+    "name": "porkchopraw",
+    "has": 0
+  },
+  {
+    "image": "items/potato.png",
+    "name": "potato",
+    "has": 0
+  },
+  {
+    "image": "items/potatoBaked.png",
+    "name": "potatobaked",
+    "has": 0
+  },
+  {
+    "image": "items/potatoPoisonous.png",
+    "name": "potatopoisonous",
+    "has": 0
+  },
+  {
+    "image": "items/potion.png",
+    "name": "potion",
+    "has": 0
+  },
+  {
+    "image": "items/potion_contents.png",
+    "name": "potion_contents",
+    "has": 0
+  },
+  {
+    "image": "items/potion_splash.png",
+    "name": "potion_splash",
+    "has": 0
+  },
+  {
+    "image": "items/pumpkinPie.png",
+    "name": "pumpkinpie",
+    "has": 0
+  },
+  {
+    "image": "items/quiver.png",
+    "name": "quiver",
+    "has": 0
+  },
+  {
+    "image": "items/record_11.png",
+    "name": "record_11",
+    "has": 0
+  },
+  {
+    "image": "items/record_13.png",
+    "name": "record_13",
+    "has": 0
+  },
+  {
+    "image": "items/record_blocks.png",
+    "name": "record_blocks",
+    "has": 0
+  },
+  {
+    "image": "items/record_cat.png",
+    "name": "record_cat",
+    "has": 0
+  },
+  {
+    "image": "items/record_chirp.png",
+    "name": "record_chirp",
+    "has": 0
+  },
+  {
+    "image": "items/record_far.png",
+    "name": "record_far",
+    "has": 0
+  },
+  {
+    "image": "items/record_mall.png",
+    "name": "record_mall",
+    "has": 0
+  },
+  {
+    "image": "items/record_mellohi.png",
+    "name": "record_mellohi",
+    "has": 0
+  },
+  {
+    "image": "items/record_stal.png",
+    "name": "record_stal",
+    "has": 0
+  },
+  {
+    "image": "items/record_strad.png",
+    "name": "record_strad",
+    "has": 0
+  },
+  {
+    "image": "items/record_wait.png",
+    "name": "record_wait",
+    "has": 0
+  },
+  {
+    "image": "items/record_ward.png",
+    "name": "record_ward",
+    "has": 0
+  },
+  {
+    "image": "items/redstone.png",
+    "name": "redstone",
+    "has": 0
+  },
+  {
+    "image": "items/reeds.png",
+    "name": "reeds",
+    "has": 0
+  },
+  {
+    "image": "items/rottenFlesh.png",
+    "name": "rottenflesh",
+    "has": 0
+  },
+  {
+    "image": "items/ruby.png",
+    "name": "ruby",
+    "has": 0
+  },
+  {
+    "image": "items/saddle.png",
+    "name": "saddle",
+    "has": 0
+  },
+  {
+    "image": "items/seeds.png",
+    "name": "seeds",
+    "has": 0
+  },
+  {
+    "image": "items/seeds_melon.png",
+    "name": "seeds_melon",
+    "has": 0
+  },
+  {
+    "image": "items/seeds_pumpkin.png",
+    "name": "seeds_pumpkin",
+    "has": 0
+  },
+  {
+    "image": "items/shears.png",
+    "name": "shears",
+    "has": 0
+  },
+  {
+    "image": "items/shovelDiamond.png",
+    "name": "diamond shovel",
+    "has": 0
+  },
+  {
+    "image": "items/shovelGold.png",
+    "name": "gold shovel",
+    "has": 0
+  },
+  {
+    "image": "items/shovelIron.png",
+    "name": "iron shovel",
+    "has": 0
+  },
+  {
+    "image": "items/shovelStone.png",
+    "name": "stone shovel",
+    "has": 0
+  },
+  {
+    "image": "items/shovelWood.png",
+    "name": "wooden shovel",
+    "has": 0
+  },
+  {
+    "image": "items/sign.png",
+    "name": "sign",
+    "has": 0
+  },
+  {
+    "image": "items/skull_char.png",
+    "name": "skull_char",
+    "has": 0
+  },
+  {
+    "image": "items/skull_creeper.png",
+    "name": "skull_creeper",
+    "has": 0
+  },
+  {
+    "image": "items/skull_skeleton.png",
+    "name": "skull_skeleton",
+    "has": 0
+  },
+  {
+    "image": "items/skull_wither.png",
+    "name": "skull_wither",
+    "has": 0
+  },
+  {
+    "image": "items/skull_zombie.png",
+    "name": "skull_zombie",
+    "has": 0
+  },
+  {
+    "image": "items/slimeball.png",
+    "name": "slimeball",
+    "has": 0
+  },
+  {
+    "image": "items/slot_empty_boots.png",
+    "name": "slot_empty_boots",
+    "has": 0
+  },
+  {
+    "image": "items/slot_empty_chestplate.png",
+    "name": "slot_empty_chestplate",
+    "has": 0
+  },
+  {
+    "image": "items/slot_empty_helmet.png",
+    "name": "slot_empty_helmet",
+    "has": 0
+  },
+  {
+    "image": "items/slot_empty_leggings.png",
+    "name": "slot_empty_leggings",
+    "has": 0
+  },
+  {
+    "image": "items/snowball.png",
+    "name": "snowball",
+    "has": 0
+  },
+  {
+    "image": "items/speckledMelon.png",
+    "name": "speckledmelon",
+    "has": 0
+  },
+  {
+    "image": "items/spiderEye.png",
+    "name": "spidereye",
+    "has": 0
+  },
+  {
+    "image": "items/stick.png",
+    "name": "stick",
+    "has": 64
+  },
+  {
+    "image": "items/string.png",
+    "name": "string",
+    "has": 0
+  },
+  {
+    "image": "items/sugar.png",
+    "name": "sugar",
+    "has": 0
+  },
+  {
+    "image": "items/sulphur.png",
+    "name": "sulphur",
+    "has": 0
+  },
+  {
+    "image": "items/swordDiamond.png",
+    "name": "diamond sword",
+    "has": 0
+  },
+  {
+    "image": "items/swordGold.png",
+    "name": "gold sword",
+    "has": 0
+  },
+  {
+    "image": "items/swordIron.png",
+    "name": "iron sword",
+    "has": 0
+  },
+  {
+    "image": "items/swordStone.png",
+    "name": "stone sword",
+    "has": 0
+  },
+  {
+    "image": "items/swordWood.png",
+    "name": "wooden sword",
+    "has": 0
+  },
+  {
+    "image": "items/wheat.png",
+    "name": "wheat",
+    "has": 0
+  },
+  {
+    "image": "items/writingBook.png",
+    "name": "writingbook",
+    "has": 0
+  },
+  {
+    "image": "items/writtenBook.png",
+    "name": "writtenbook",
+    "has": 0
+  },
+  {
+    "image": "items/yellowDust.png",
+    "name": "yellowdust",
+    "has": 0
+  }
+]

@@ -4,9 +4,11 @@ An HTML5 crafting API.
 
 # example
 
-[View this example](http://shama.github.io/craft). It loads up most (not all) of
+[View this example](http://shama.github.io/craft).
+
+It loads up most (not all) of
 the Minecraft recipes and items. The textures are completely themeable using
-exiting Minecraft texture packs too.
+existing Minecraft texture packs too.
 
 ```js
 // create a crafter

@@ -74,7 +74,7 @@ var webui = require('crafter/webui')({
 ```
 
 View the
-[example](https://github.com/shama/crater/blob/master/example/world.js) for a
+[example](https://github.com/shama/craft/blob/master/example/world.js) for a
 more in depth example.
 
 # api

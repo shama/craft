@@ -68,7 +68,7 @@ crafter.recipe([
 Also included is a web user interface.
 
 ```js
-var webui = require('crafter/webui')({
+var webui = require('craft/webui')({
   container: document.getElementById('crafting')
 });
 ```

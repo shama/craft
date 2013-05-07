@@ -26,7 +26,8 @@
   },
   "scripts": {
     "start": "cd example && ../node_modules/.bin/browservefy world.js 8080 -- -d",
-    "test": "node test.js"
+    "test": "node test.js",
+    "gh-pages": "cp -R ./example/* ./ && browserify world.js -o world.js"
   },
   "devDependencies": {
     "browservefy": "0.0.9",

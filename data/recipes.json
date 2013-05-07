@@ -1,0 +1,3860 @@
+[
+  {
+    "give": [
+      "Activator Rail",
+      6
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Stick",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Redstone Torch",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Stick",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Anvil",
+      1
+    ],
+    "have": [
+      [
+        "Iron Block",
+        "Iron Block",
+        "Iron Block"
+      ],
+      [
+        "null",
+        "Iron Ingot",
+        "null"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Arrow",
+      4
+    ],
+    "have": [
+      [
+        "Flint"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Feather"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Beacon Block",
+      1
+    ],
+    "have": [
+      [
+        "Glass",
+        "Glass",
+        "Glass"
+      ],
+      [
+        "Glass",
+        "Nether Star",
+        "Glass"
+      ],
+      [
+        "Obsidian",
+        "Obsidian",
+        "Obsidian"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Bed",
+      1
+    ],
+    "have": [
+      [
+        "White Wool",
+        "White Wool",
+        "White Wool"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Birch Plank",
+      4
+    ],
+    "have": [
+      "Birch Wood"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Birch Wood Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Birch Plank"
+      ],
+      [
+        "null",
+        "Birch Plank",
+        "Birch Plank"
+      ],
+      [
+        "Birch Plank",
+        "Birch Plank",
+        "Birch Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Black Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Ink Sac"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Blaze Powder",
+      2
+    ],
+    "have": [
+      "Blaze Rod"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Block Of Quartz",
+      1
+    ],
+    "have": [
+      [
+        "Nether Quartz",
+        "Nether Quartz"
+      ],
+      [
+        "Nether Quartz",
+        "Nether Quartz"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Block Of Redstone",
+      1
+    ],
+    "have": [
+      [
+        "Redstone Wire",
+        "Redstone Wire",
+        "Redstone Wire"
+      ],
+      [
+        "Redstone Wire",
+        "Redstone Wire",
+        "Redstone Wire"
+      ],
+      [
+        "Redstone Wire",
+        "Redstone Wire",
+        "Redstone Wire"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Blue Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Lapis Lazuli"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Boat",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "null",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Bone Meal",
+      3
+    ],
+    "have": [
+      "Bone"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Book",
+      1
+    ],
+    "have": [
+      [
+        "Paper"
+      ],
+      [
+        "Paper"
+      ],
+      [
+        "Paper"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Bookshelf",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Book",
+        "Book",
+        "Book"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Bow",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Stick",
+        "String"
+      ],
+      [
+        "Stick",
+        "null",
+        "String"
+      ],
+      [
+        "null",
+        "Stick",
+        "String"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Bowl",
+      4
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "null",
+        "Oak Plank"
+      ],
+      [
+        "null",
+        "Oak Plank",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Bread",
+      1
+    ],
+    "have": [
+      [
+        "Wheat",
+        "Wheat",
+        "Wheat"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Brewing Stand",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Blaze Rod",
+        "null"
+      ],
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Brick",
+      1
+    ],
+    "have": [
+      "Clay"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Brick Slab",
+      6
+    ],
+    "have": [
+      [
+        "Brick",
+        "Brick",
+        "Brick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Brick Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Brick Block"
+      ],
+      [
+        "null",
+        "Brick Block",
+        "Brick Block"
+      ],
+      [
+        "Brick Block",
+        "Brick Block",
+        "Brick Block"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Brown Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Cocoa Beans"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Bucket",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "null",
+        "Iron Ingot",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Cactus Green",
+      1
+    ],
+    "have": [
+      "Cactus"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Cake",
+      1
+    ],
+    "have": [
+      [
+        "Milk",
+        "Milk",
+        "Milk"
+      ],
+      [
+        "Sugar",
+        "Egg",
+        "Sugar"
+      ],
+      [
+        "Wheat",
+        "Wheat",
+        "Wheat"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Carrot On A Stick",
+      1
+    ],
+    "have": [
+      [
+        "Fishing Rod"
+      ],
+      [
+        "null",
+        "Carrot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Cauldron",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Chain Boots",
+      1
+    ],
+    "have": [
+      [
+        "Fire",
+        "null",
+        "Fire"
+      ],
+      [
+        "Fire",
+        "null",
+        "Fire"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Chain Chestplate",
+      1
+    ],
+    "have": [
+      [
+        "Fire",
+        "null",
+        "Fire"
+      ],
+      [
+        "Fire",
+        "Fire",
+        "Fire"
+      ],
+      [
+        "Fire",
+        "Fire",
+        "Fire"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Chain Helmet",
+      1
+    ],
+    "have": [
+      [
+        "Fire",
+        "Fire",
+        "Fire"
+      ],
+      [
+        "Fire",
+        "null",
+        "Fire"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Chain Leggings",
+      1
+    ],
+    "have": [
+      [
+        "Fire",
+        "Fire",
+        "Fire"
+      ],
+      [
+        "Fire",
+        "null",
+        "Fire"
+      ],
+      [
+        "Fire",
+        "null",
+        "Fire"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Charcoal",
+      1
+    ],
+    "have": [
+      "Wood"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Chest",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "null",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Chiseled Quartz Block",
+      1
+    ],
+    "have": [
+      [
+        "Quartz Slab"
+      ],
+      [
+        "Quartz Slab"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Clay Block",
+      1
+    ],
+    "have": [
+      [
+        "Clay",
+        "Clay"
+      ],
+      [
+        "Clay",
+        "Clay"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Coal",
+      1
+    ],
+    "have": [
+      "Coal Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Cobblestone Slab",
+      6
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Cobblestone Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Cobblestone"
+      ],
+      [
+        "null",
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Cobblestone Wall",
+      6
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Compass",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Iron Ingot",
+        "null"
+      ],
+      [
+        "Iron Ingot",
+        "Redstone Wire",
+        "Iron Ingot"
+      ],
+      [
+        "null",
+        "Iron Ingot",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Compass",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Gold Ingot",
+        "null"
+      ],
+      [
+        "Gold Ingot",
+        "Redstone Wire",
+        "Gold Ingot"
+      ],
+      [
+        "null",
+        "Gold Ingot",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Cooked Chicken",
+      1
+    ],
+    "have": [
+      "Raw Chicken"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Cooked Fish",
+      1
+    ],
+    "have": [
+      "Raw Fish"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Cooked Porkchop",
+      1
+    ],
+    "have": [
+      "Raw Porkchop"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Cookie",
+      8
+    ],
+    "have": [
+      [
+        "Wheat",
+        "Cocoa Beans",
+        "Wheat"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Crafting Table",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Cyan Dye",
+      2
+    ],
+    "have": [
+      "Cactus Green",
+      "Lapis Lazuli Ore"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Cyan Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Cyan Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Dandelion Yellow",
+      2
+    ],
+    "have": [
+      "Dandelion"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Daylight Sensor",
+      1
+    ],
+    "have": [
+      [
+        "Glass",
+        "Glass",
+        "Glass"
+      ],
+      [
+        "Nether Quartz",
+        "Nether Quartz",
+        "Nether Quartz"
+      ],
+      [
+        "Wooden Slab",
+        "Wooden Slab",
+        "Wooden Slab"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Decorative Sandstone",
+      1
+    ],
+    "have": [
+      [
+        "Sandstone Slab"
+      ],
+      [
+        "Sandstone Slab"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond",
+      9
+    ],
+    "have": [
+      "Diamond Block"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Diamond",
+      1
+    ],
+    "have": [
+      "Diamond Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Diamond Axe",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Block",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Boots",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "null",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "null",
+        "Diamond"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Chestplate",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "null",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Helmet",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "null",
+        "Diamond"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Hoe",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "null",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Leggings",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "null",
+        "Diamond"
+      ],
+      [
+        "Diamond",
+        "null",
+        "Diamond"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Pickaxe",
+      1
+    ],
+    "have": [
+      [
+        "Diamond",
+        "Diamond",
+        "Diamond"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Shovel",
+      1
+    ],
+    "have": [
+      [
+        "Diamond"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Diamond Sword",
+      1
+    ],
+    "have": [
+      [
+        "Diamond"
+      ],
+      [
+        "Diamond"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Dispenser",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Bow",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Redstone Wire",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Dropper",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "null",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Redstone Wire",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Emerald",
+      9
+    ],
+    "have": [
+      "Emerald Block"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Emerald",
+      1
+    ],
+    "have": [
+      "Emerald Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Emerald Block",
+      1
+    ],
+    "have": [
+      [
+        "Emerald",
+        "Emerald",
+        "Emerald"
+      ],
+      [
+        "Emerald",
+        "Emerald",
+        "Emerald"
+      ],
+      [
+        "Emerald",
+        "Emerald",
+        "Emerald"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Empty Map",
+      1
+    ],
+    "have": [
+      [
+        "Paper",
+        "Paper",
+        "Paper"
+      ],
+      [
+        "Paper",
+        "Compass",
+        "Paper"
+      ],
+      [
+        "Paper",
+        "Paper",
+        "Paper"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Enchantment Table",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Book",
+        "null"
+      ],
+      [
+        "Diamond",
+        "Obsidian",
+        "Diamond"
+      ],
+      [
+        "Obsidian",
+        "Obsidian",
+        "Obsidian"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Eye Of Ender",
+      1
+    ],
+    "have": [
+      "Ender Pearl",
+      "Blaze Powder"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Fence Gate",
+      1
+    ],
+    "have": [
+      [
+        "Stick",
+        "Oak Plank",
+        "Stick"
+      ],
+      [
+        "Stick",
+        "Oak Plank",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Fermented Spider Eye",
+      1
+    ],
+    "have": [
+      "Spider Eye",
+      "Brown Mushroom",
+      "Sugar"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Fire Charge",
+      3
+    ],
+    "have": [
+      "Coal",
+      "Blaze Powder",
+      "Gunpowder"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Fishing Rod",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick",
+        "String"
+      ],
+      [
+        "Stick",
+        "null",
+        "String"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Flint And Steel",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null"
+      ],
+      [
+        "null",
+        "Flint"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Furnace",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "null",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Glass",
+      1
+    ],
+    "have": [
+      "Sand"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Glass Bottle",
+      3
+    ],
+    "have": [
+      [
+        "Glass",
+        "null",
+        "Glass"
+      ],
+      [
+        "null",
+        "Glass",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Glass Pane",
+      16
+    ],
+    "have": [
+      [
+        "Glass",
+        "Glass",
+        "Glass"
+      ],
+      [
+        "Glass",
+        "Glass",
+        "Glass"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Glistering Melonblock",
+      1
+    ],
+    "have": [
+      "Melon Slice",
+      "Gold Nugget"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Glowstone Block",
+      1
+    ],
+    "have": [
+      [
+        "Glowstone Dust",
+        "Glowstone Dust"
+      ],
+      [
+        "Glowstone Dust",
+        "Glowstone Dust"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Block",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Boots",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Chestplate",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Helmet",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Hoe",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "null",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Ingot",
+      9
+    ],
+    "have": [
+      "Gold Block"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Gold Ingot",
+      1
+    ],
+    "have": [
+      "Gold Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Gold Leggings",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Nugget",
+      9
+    ],
+    "have": [
+      "Gold Ingot"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Gold Pickaxe",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Shovel",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gold Sword",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Golden Apple",
+      1
+    ],
+    "have": [
+      [
+        "Gold Nugget",
+        "Gold Nugget",
+        "Gold Nugget"
+      ],
+      [
+        "Gold Nugget",
+        "Apple",
+        "Gold Nugget"
+      ],
+      [
+        "Gold Nugget",
+        "Gold Nugget",
+        "Gold Nugget"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Golden Carrot",
+      1
+    ],
+    "have": [
+      [
+        "Gold Nugget",
+        "Gold Nugget",
+        "Gold Nugget"
+      ],
+      [
+        "Gold Nugget",
+        "Carrot",
+        "Gold Nugget"
+      ],
+      [
+        "Gold Nugget",
+        "Gold Nugget",
+        "Gold Nugget"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Gray Dye",
+      2
+    ],
+    "have": [
+      "Bone Meal",
+      "Ink Sac"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Gray Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Gray Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Green Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Cactus Green"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Hopper",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Chest",
+        "Iron Ingot"
+      ],
+      [
+        "null",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Axe",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Axe",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Bars",
+      16
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Block",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Boots",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Chestplate",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Door",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Helmet",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Hoe",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "null",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Hoe",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Ingot",
+      9
+    ],
+    "have": [
+      "Iron Block"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Iron Ingot",
+      1
+    ],
+    "have": [
+      "Iron Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Iron Leggings",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Pickaxe",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Shovel",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Iron Sword",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Jack 'o' Lantern",
+      1
+    ],
+    "have": [
+      [
+        "Pumpkin"
+      ],
+      [
+        "Torch"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Jukebox",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Diamond",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Jungle Plank",
+      4
+    ],
+    "have": [
+      "Jungle Wood"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Jungle Wood Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Jungle Plank"
+      ],
+      [
+        "null",
+        "Jungle Plank",
+        "Jungle Plank"
+      ],
+      [
+        "Jungle Plank",
+        "Jungle Plank",
+        "Jungle Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Ladder",
+      3
+    ],
+    "have": [
+      [
+        "Stick",
+        "null",
+        "Stick"
+      ],
+      [
+        "Stick",
+        "Stick",
+        "Stick"
+      ],
+      [
+        "Stick",
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Lapis Lazuli",
+      1
+    ],
+    "have": [
+      "Lapis Lazuli Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Lapis Lazuli Block",
+      1
+    ],
+    "have": [
+      [
+        "Lapis Lazuli Ore",
+        "Lapis Lazuli Ore",
+        "Lapis Lazuli Ore"
+      ],
+      [
+        "Lapis Lazuli Ore",
+        "Lapis Lazuli Ore",
+        "Lapis Lazuli Ore"
+      ],
+      [
+        "Lapis Lazuli Ore",
+        "Lapis Lazuli Ore",
+        "Lapis Lazuli Ore"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Leather Boots",
+      1
+    ],
+    "have": [
+      [
+        "Leather",
+        "null",
+        "Leather"
+      ],
+      [
+        "Leather",
+        "null",
+        "Leather"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Leather Cap",
+      1
+    ],
+    "have": [
+      [
+        "Leather",
+        "Leather",
+        "Leather"
+      ],
+      [
+        "Leather",
+        "null",
+        "Leather"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Leather Pants",
+      1
+    ],
+    "have": [
+      [
+        "Leather",
+        "Leather",
+        "Leather"
+      ],
+      [
+        "Leather",
+        "null",
+        "Leather"
+      ],
+      [
+        "Leather",
+        "null",
+        "Leather"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Leather Tunic",
+      1
+    ],
+    "have": [
+      [
+        "Leather",
+        "null",
+        "Leather"
+      ],
+      [
+        "Leather",
+        "Leather",
+        "Leather"
+      ],
+      [
+        "Leather",
+        "Leather",
+        "Leather"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Lever",
+      1
+    ],
+    "have": [
+      [
+        "Stick"
+      ],
+      [
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Light Blue Dye",
+      2
+    ],
+    "have": [
+      "Lapis Lazuli Ore",
+      "Bone Meal"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Light Blue Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Light Blue Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Light Gray Dye",
+      2
+    ],
+    "have": [
+      "Bone Meal",
+      "Ink Sac"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Light Gray Dye",
+      3
+    ],
+    "have": [
+      "Bone Meal",
+      "Bone Meal",
+      "Gray Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Light Gray Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Light Gray Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Lime Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Lime Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Magenta Dye",
+      2
+    ],
+    "have": [
+      "Purple Dye",
+      "Pink Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Magenta Dye",
+      4
+    ],
+    "have": [
+      "Lapis Lazuli Ore",
+      "Bone Meal",
+      "Rose Red",
+      "Rose Red"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Magenta Dye",
+      3
+    ],
+    "have": [
+      "Lapis Lazuli Ore",
+      "Pink Dye",
+      "Rose Red"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Magenta Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Magenta Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Magma Cream",
+      1
+    ],
+    "have": [
+      "Blaze Powder",
+      "Slimeball"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Melon",
+      1
+    ],
+    "have": [
+      [
+        "Melonblock Slice",
+        "Melonblock Slice",
+        "Melonblock Slice"
+      ],
+      [
+        "Melonblock Slice",
+        "Melonblock Slice",
+        "Melonblock Slice"
+      ],
+      [
+        "Melonblock Slice",
+        "Melonblock Slice",
+        "Melonblock Slice"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Melonblock Seeds",
+      1
+    ],
+    "have": [
+      "Melonblock Slice"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Minecart",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Minecart With Chest",
+      1
+    ],
+    "have": [
+      [
+        "Chest"
+      ],
+      [
+        "Minecart"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Minecart With Furnace",
+      1
+    ],
+    "have": [
+      [
+        "Furnace"
+      ],
+      [
+        "Minecart"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Minecart With Hopper",
+      1
+    ],
+    "have": [
+      [
+        "Hopper"
+      ],
+      [
+        "Minecart"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Minecart With TNT",
+      1
+    ],
+    "have": [
+      [
+        "TNT"
+      ],
+      [
+        "Minecart"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Mossy Cobblestone Wall",
+      6
+    ],
+    "have": [
+      [
+        "Moss Stone",
+        "Moss Stone",
+        "Moss Stone"
+      ],
+      [
+        "Moss Stone",
+        "Moss Stone",
+        "Moss Stone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Mushroom Stew",
+      1
+    ],
+    "have": [
+      "Bowl",
+      "Brown Mushroom",
+      "Red Mushroom"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Nether Brick",
+      1
+    ],
+    "have": [
+      [
+        "Nether Brick (item)",
+        "Nether Brick (item)"
+      ],
+      [
+        "Nether Brick (item)",
+        "Nether Brick (item)"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Nether Brick Fence",
+      6
+    ],
+    "have": [
+      [
+        "Nether Brick",
+        "Nether Brick",
+        "Nether Brick"
+      ],
+      [
+        "Nether Brick",
+        "Nether Brick",
+        "Nether Brick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Nether Brick Slab",
+      6
+    ],
+    "have": [
+      [
+        "Nether Brick",
+        "Nether Brick",
+        "Nether Brick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Nether Brick Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Nether Brick"
+      ],
+      [
+        "null",
+        "Nether Brick",
+        "Nether Brick"
+      ],
+      [
+        "Nether Brick",
+        "Nether Brick",
+        "Nether Brick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Note Block",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Redstone Wire",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Oak Plank",
+      4
+    ],
+    "have": [
+      "Wood"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Oak Wood Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Oak Plank"
+      ],
+      [
+        "null",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Orange Dye",
+      2
+    ],
+    "have": [
+      "Rose Red",
+      "Dandelion Yellow"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Orange Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Orange Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Painting",
+      1
+    ],
+    "have": [
+      [
+        "Stick",
+        "Stick",
+        "Stick"
+      ],
+      [
+        "Stick",
+        "White Wool",
+        "Stick"
+      ],
+      [
+        "Stick",
+        "Stick",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Paper",
+      3
+    ],
+    "have": [
+      [
+        "Sugar Cane",
+        "Sugar Cane",
+        "Sugar Cane"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Pillar Quartz Block",
+      2
+    ],
+    "have": [
+      [
+        "Block Of Quartz"
+      ],
+      [
+        "Block Of Quartz"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Pine Plank",
+      4
+    ],
+    "have": [
+      "Spruce Wood"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Pink Dye",
+      2
+    ],
+    "have": [
+      "Rose Red",
+      "Bone Meal"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Pink Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Pink Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Piston",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Cobblestone",
+        "Iron Ingot",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Redstone",
+        "Cobblestone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Powered Rail",
+      16
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "null",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Stick",
+        "Gold Ingot"
+      ],
+      [
+        "Gold Ingot",
+        "Redstone Wire",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Pumpkin Pie",
+      1
+    ],
+    "have": [
+      "Pumpkin",
+      "Egg",
+      "Sugar"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Pumpkin Seeds",
+      4
+    ],
+    "have": [
+      "Pumpkin"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Purple Dye",
+      2
+    ],
+    "have": [
+      "Rose Red",
+      "Lapis Lazuli Ore"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Purple Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Purple Dye"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Quartz Slab",
+      6
+    ],
+    "have": [
+      [
+        "Block Of Quartz",
+        "Block Of Quartz",
+        "Block Of Quartz"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Quartz Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Block Of Quartz"
+      ],
+      [
+        "null",
+        "Block Of Quartz",
+        "Block Of Quartz"
+      ],
+      [
+        "Block Of Quartz",
+        "Block Of Quartz",
+        "Block Of Quartz"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Rail",
+      16
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Stick",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Rail",
+      16
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "Stone Pressure Plate",
+        "Iron Ingot"
+      ],
+      [
+        "Iron Ingot",
+        "null",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Red Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Rose Red"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Redstone Comparator",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Redstone Torch",
+        "null"
+      ],
+      [
+        "Redstone Torch",
+        "Nether Quartz",
+        "Redstone Torch"
+      ],
+      [
+        "Stone",
+        "Stone",
+        "Stone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Redstone Lamp",
+      1
+    ],
+    "have": [
+      [
+        "null",
+        "Redstone Wire",
+        "null"
+      ],
+      [
+        "Redstone Wire",
+        "Glowstone Block",
+        "Redstone Wire"
+      ],
+      [
+        "null",
+        "Redstone Wire",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Redstone Repeater",
+      1
+    ],
+    "have": [
+      [
+        "Redstone Torch",
+        "Redstone Wire",
+        "Redstone Torch"
+      ],
+      [
+        "Stone",
+        "Stone",
+        "Stone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Redstone Torch",
+      1
+    ],
+    "have": [
+      [
+        "Redstone Wire"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Redstone Wire",
+      1
+    ],
+    "have": [
+      "Redstone Ore"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Rose Red",
+      2
+    ],
+    "have": [
+      "Rose"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Sandstone",
+      1
+    ],
+    "have": [
+      [
+        "Sand",
+        "Sand"
+      ],
+      [
+        "Sand",
+        "Sand"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Sandstone Slab",
+      6
+    ],
+    "have": [
+      [
+        "Sandstone",
+        "Sandstone",
+        "Sandstone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Sandstone Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Sandstone"
+      ],
+      [
+        "null",
+        "Sandstone",
+        "Sandstone"
+      ],
+      [
+        "Sandstone",
+        "Sandstone",
+        "Sandstone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Sign",
+      3
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Smooth Sandstone",
+      1
+    ],
+    "have": [
+      [
+        "Sandstone",
+        "Sandstone"
+      ],
+      [
+        "Sandstone",
+        "Sandstone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Snow Block",
+      1
+    ],
+    "have": [
+      [
+        "Snowball",
+        "Snowball"
+      ],
+      [
+        "Snowball",
+        "Snowball"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Spruce Wood Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Pine Plank"
+      ],
+      [
+        "null",
+        "Pine Plank",
+        "Pine Plank"
+      ],
+      [
+        "Pine Plank",
+        "Pine Plank",
+        "Pine Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Steak",
+      1
+    ],
+    "have": [
+      "Raw Beef"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Stick",
+      4
+    ],
+    "have": [
+      [
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Sticky Piston",
+      1
+    ],
+    "have": [
+      [
+        "Slimeball"
+      ],
+      [
+        "Piston"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone",
+      1
+    ],
+    "have": [
+      "Cobblestone"
+    ],
+    "when": "smelted"
+  },
+  {
+    "give": [
+      "Stone Axe",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Brick",
+      1
+    ],
+    "have": [
+      [
+        "Stone",
+        "Stone"
+      ],
+      [
+        "Stone",
+        "Stone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Brick Slab",
+      6
+    ],
+    "have": [
+      [
+        "Stone Brick",
+        "Stone Brick",
+        "Stone Brick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Brick Stairs",
+      4
+    ],
+    "have": [
+      [
+        "null",
+        "null",
+        "Stone Brick"
+      ],
+      [
+        "null",
+        "Stone Brick",
+        "Stone Brick"
+      ],
+      [
+        "Stone Brick",
+        "Stone Brick",
+        "Stone Brick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Button",
+      1
+    ],
+    "have": [
+      "Stone"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Stone Hoe",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "null",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Pickaxe",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone",
+        "Cobblestone",
+        "Cobblestone"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Pressure Plate",
+      1
+    ],
+    "have": [
+      [
+        "Stone",
+        "Stone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Shovel",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Slab",
+      6
+    ],
+    "have": [
+      [
+        "Stone",
+        "Stone",
+        "Stone"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Stone Sword",
+      1
+    ],
+    "have": [
+      [
+        "Cobblestone"
+      ],
+      [
+        "Cobblestone"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Sugar",
+      1
+    ],
+    "have": [
+      "Sugar Cane"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "TNT",
+      1
+    ],
+    "have": [
+      [
+        "Gunpowder",
+        "Sand",
+        "Gunpowder"
+      ],
+      [
+        "Sand",
+        "Gunpowder",
+        "Sand"
+      ],
+      [
+        "Gunpowder",
+        "Sand",
+        "Gunpowder"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Torch",
+      4
+    ],
+    "have": [
+      [
+        "Coal"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Trapdoor",
+      2
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Trapped Chest",
+      1
+    ],
+    "have": [
+      "Tripwire Hook",
+      "Chest"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Tripwire Hook",
+      2
+    ],
+    "have": [
+      [
+        "Iron Ingot"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Weighted Pressure Plate (heavy)",
+      1
+    ],
+    "have": [
+      [
+        "Iron Ingot",
+        "Iron Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Weighted Pressure Plate (light)",
+      1
+    ],
+    "have": [
+      [
+        "Gold Ingot",
+        "Gold Ingot"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "White Wool",
+      1
+    ],
+    "have": [
+      [
+        "String",
+        "String"
+      ],
+      [
+        "String",
+        "String"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wood Button",
+      1
+    ],
+    "have": [
+      "Oak Plank"
+    ],
+    "when": "shapeless"
+  },
+  {
+    "give": [
+      "Wooden Axe",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Door",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Fence",
+      6
+    ],
+    "have": [
+      [
+        "Stick",
+        "Stick",
+        "Stick"
+      ],
+      [
+        "Stick",
+        "Stick",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Hoe",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "null",
+        "Stick"
+      ],
+      [
+        "null",
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Pickaxe",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ],
+      [
+        "null",
+        "Stick",
+        "null"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Pressure Plate",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Shovel",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank"
+      ],
+      [
+        "Stick"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Slab",
+      6
+    ],
+    "have": [
+      [
+        "Oak Plank",
+        "Oak Plank",
+        "Oak Plank"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Wooden Sword",
+      1
+    ],
+    "have": [
+      [
+        "Oak Plank"
+      ],
+      [
+        "Oak Plank"
+      ],
+      [
+        "Stick"
+      ]
+    ],
+    "when": "shaped"
+  },
+  {
+    "give": [
+      "Yellow Wool",
+      1
+    ],
+    "have": [
+      "White Wool",
+      "Dandelion Yellow"
+    ],
+    "when": "shapeless"
+  }
+]

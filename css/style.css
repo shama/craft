@@ -1,0 +1,266 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+  margin: 0px;
+  font-family: 'Roboto Slab', Arial, sans-serif;
+  font-size: 80%;
+  overflow: hidden;
+  background-color: #333;
+  background-image: url('../textures/bg.png');
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body, html { height: 100%; }
+body > pre { display: none; }
+a { color: #ddd; }
+.clear { width: 100%; clear: both; }
+
+header {
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+}
+header .inner {
+  width: 800px;
+  margin: 0 auto;
+}
+header .right {
+  text-align: right;
+}
+header h1 {
+  margin: 0;
+  padding: 0;
+}
+header p {
+  margin: 0;
+  padding: 0;
+}
+header span {
+  float: right;
+}
+header .avatar img {
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+  width: 30px;
+  height: 30px;
+  float: right;
+  margin-left: 5px;
+}
+.content {
+  width: 800px;
+  margin: 20px auto;
+}
+.left, .right {
+  width: 400px;
+  float: left;
+  position: relative;
+}
+.right {
+  z-index: 999;
+}
+.left em {
+  position: absolute;
+  bottom: 185px;
+  left: 28px;
+  width: 300px;
+  color: #fff;
+  font-size: 80%;
+  line-height: 16px;
+  font-family: Arial, sans-serif;
+}
+
+/* Crafting */
+#crafting {
+  background: url('../textures/crafting.png') no-repeat top left transparent;
+  background-size: 100%;
+  width: 512px;
+  height: 512px;
+  position: relative;
+  margin-left: 10px;
+
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+#crafting #craftable {
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  top: 30px;
+  left: 57px;
+  width: 142px;
+}
+#crafting #items {
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  top: 164px;
+  left: 13px;
+  width: 350px;
+}
+#crafting #result {
+  position: absolute;
+  margin: 0px;
+  padding: 0px;
+  top: 68px;
+  left: 245px;
+  width: 36px;
+  height: 36px;
+}
+#crafting li .noimage, .craft-webui-active .noimage {
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px #000000;
+  font-size: 80%;
+}
+#crafting li, .craft-webui-active {
+  box-sizing: border-box;
+  list-style: none;
+  float: left;
+  width: 36px;
+  height: 36px;
+  overflow: hidden;
+  position: relative;
+  cursor: move;
+}
+#crafting li span, .craft-webui-active span {
+  color: #fff;
+  position: absolute;
+  font-family: monospace;
+  font-size: 14px;
+  bottom: -2px;
+  right: -1px;
+  text-shadow: 1px 1px #000000;
+}
+#crafting li img {
+  padding: 10px 0 0 10px;
+}
+
+/* Editor */
+#editor { margin-top: 14px; }
+.cm-s-mistakes .cm-keyword {color: darkblue;}
+.cm-s-mistakes .cm-atom {color: darkred;}
+.cm-s-mistakes .cm-number {color: darkred;}
+.cm-s-mistakes .cm-def {color: #00f;}
+.cm-s-mistakes .cm-variable {color: #111;}
+.cm-s-mistakes .cm-variable-2 {color: #05a;}
+.cm-s-mistakes .cm-variable-3 {color: #085;}
+.cm-s-mistakes .cm-property {color: #111;}
+.cm-s-mistakes .cm-operator {color: #111;}
+.cm-s-mistakes .cm-comment {color: darkgreen;}
+.cm-s-mistakes .cm-string {color: darkmagenta;}
+.cm-s-mistakes .cm-string-2 {color: darkmagenta;}
+.cm-s-mistakes .cm-meta {color: #555;}
+.cm-s-mistakes .cm-error {color: #f00;}
+.cm-s-mistakes .cm-qualifier {color: #555;}
+.cm-s-mistakes .cm-builtin {color: #30a;}
+.cm-s-mistakes .cm-bracket {color: #997;}
+.cm-s-mistakes .cm-tag {color: #170;}
+.cm-s-mistakes .cm-attribute {color: #00c;}
+.cm-s-mistakes .cm-header {color: blue;}
+.cm-s-mistakes .cm-quote {color: #090;}
+.cm-s-mistakes .cm-hr {color: #999;}
+.cm-s-mistakes .cm-link {color: #00c;}
+
+.cm-negative {color: #d44;}
+.cm-positive {color: #292;}
+.cm-header, .cm-strong {font-weight: bold;}
+.cm-em {font-style: italic;}
+.cm-link {text-decoration: underline;}
+
+.CodeMirror { font-size: 12px; }
+#editor .CodeMirror .errorLine { background: rgba(255,0,0,0.25); }
+.CodeMirror-scroll { background-color: rgba(255, 255, 255, 0.8); }
+
+/* 3D CSS blocks */
+.block-container {
+  width: 18px;
+  height: 18px;
+  position: relative;
+  -webkit-perspective: 1000px;
+  -moz-perspective: 1000px;
+  -ms-perspective: 1000px;
+  perspective: 1000px;
+}
+#block {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  -ms-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+  -webkit-transition: -webkit-transform 1s;
+  -moz-transition: -moz-transform 1s;
+  -o-transition: -o-transform 1s;
+  transition: transform 1s;
+  -webkit-transform: translateX(6px) translateY(6px) rotateX(-15deg) rotateY(45deg);
+  -moz-transform: translateX(6px) translateY(6px) rotateX(-15deg) rotateY(45deg);
+  -ms-transform: translateX(6px) translateY(6px) rotateX(-15deg) rotateY(45deg);
+  -o-transform: translateX(6px) translateY(6px) rotateX(-15deg) rotateY(45deg);
+  transform: translateX(6px) translateY(6px) rotateX(-15deg) rotateY(45deg);
+}
+.craft-webui-active #block, #block:hover {
+  -webkit-transform: translateX(8px) translateY(0px) rotateX(-45deg) rotateY(15deg);
+  -moz-transform: translateX(8px) translateY(0px) rotateX(-45deg) rotateY(15deg);
+  -ms-transform: translateX(8px) translateY(0px) rotateX(-45deg) rotateY(15deg);
+  -o-transform: translateX(8px) translateY(0px) rotateX(-45deg) rotateY(15deg);
+  transform: translateX(8px) translateY(0px) rotateX(-45deg) rotateY(15deg);
+}
+#block > div {
+  width: 18px;
+  height: 18px;
+  display: block;
+  position: absolute;
+}
+#block .front {
+  -webkit-transform: rotateY(0deg) translateZ(8px);
+  -moz-transform: rotateY(0deg) translateZ(8px);
+  -ms-transform: rotateY(0deg) translateZ(8px);
+  -o-transform: rotateY(0deg) translateZ(8px);
+  transform: rotateY(0deg) translateZ(8px);
+}
+#block .back {
+  -webkit-transform: rotateX(180deg) translateZ(8px);
+  -moz-transform: rotateX(180deg) translateZ(8px);
+  -ms-transform: rotateX(180deg) translateZ(8px);
+  -o-transform: rotateX(180deg) translateZ(8px);
+  transform: rotateX(180deg) translateZ(8px);
+}
+#block .right {
+  -webkit-transform: rotateY(90deg) translateZ(8px);
+  -moz-transform: rotateY(90deg) translateZ(8px);
+  -ms-transform: rotateY(90deg) translateZ(8px);
+  -o-transform: rotateY(90deg) translateZ(8px);
+  transform: rotateY(90deg) translateZ(8px);
+}
+#block .left {
+  -webkit-transform: rotateY(-90deg) translateZ(8px);
+  -moz-transform: rotateY(-90deg) translateZ(8px);
+  -ms-transform: rotateY(-90deg) translateZ(8px);
+  -o-transform: rotateY(-90deg) translateZ(8px);
+  transform: rotateY(-90deg) translateZ(8px);
+}
+#block .top {
+  -webkit-transform: rotateX(90deg) translateZ(8px);
+  -moz-transform: rotateX(90deg) translateZ(8px);
+  -ms-transform: rotateX(90deg) translateZ(8px);
+  -o-transform: rotateX(90deg) translateZ(8px);
+  transform: rotateX(90deg) translateZ(8px);
+}
+#block .bottom {
+  -webkit-transform: rotateX(-90deg) translateZ(8px);
+  -moz-transform: rotateX(-90deg) translateZ(8px);
+  -ms-transform: rotateX(-90deg) translateZ(8px);
+  -o-transform: rotateX(-90deg) translateZ(8px);
+  transform: rotateX(-90deg) translateZ(8px);
+}

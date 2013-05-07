@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>craft - An HTML5 crafting API.</title>
+  <link rel="stylesheet" href="css/codemirror.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <div class="inner">
+      <div class="left">
+        <h1>craft</h1>
+        <p>An HTML5 crafting API.</p>
+      </div>
+      <div class="right">
+        <a href="https://github.com/shama/craft">view on github</a>&nbsp;|&nbsp;<a href="http://npmjs.org/craft">npm install craft</a><br/><br/>
+        created by <a href="http://twitter.com/shamakry" class="avatar"><img src="http://www.gravatar.com/avatar/5211ea711bb06482530172f77732f61a.png" alt="shama" /></a>
+      </div>
+    </div>
+    <br class="clear" />
+  </header>
+  
+  <div class="content">
+    <div class="left">
+      <div id="crafting">
+        <ul id="craftable">
+          <li><li><li>
+          <li><li><li>
+          <li><li><li>
+        </ul>
+        <ul id="items">
+          <li><li><li><li><li><li><li><li><li>
+          <li><li><li><li><li><li><li><li><li>
+          <li><li><li><li><li><li><li><li><li>
+        </ul>
+        <ul><li id="result" data-drop="no"></ul>
+      </div>
+      <em>Not all of the recipes and items are loaded or exact. So don't expect it to work exactly like Minecraft. The point is to write your own recipes for your own game. ;)</em>
+    </div>
+    
+    <div class="right">
+      <div id="editor">
+      </div>
+      <button id="addrecipe">Add Recipe</button>
+    </div>
+  </div>
+<script id="program" type="text/template">// turn a box of dirt into 2 diamonds
+crafter.recipe({
+  have: [
+    ['dirt', 'dirt', 'dirt'],
+    ['dirt', 'none', 'dirt'],
+    ['dirt', 'dirt', 'dirt'],
+  ],
+  give: ['diamond', 2],
+  when: 'shaped',
+});
+
+// For info/examples on how to use the API
+// and the other recipe formats it accepts
+// visit: https://github.com/shama/craft
+
+
+</script>
+
+  <!-- 3D CSS Cube Template -->
+  <div id="block-template" class="block-container">
+    <div id="block">
+      <div class="front"></div><div class="back"></div>
+      <div class="right"></div><div class="left"></div>
+      <div class="top"></div><div class="bottom"></div>
+    </div>
+  </div>
+
+  <script src="world.js"></script>
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40713310-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</body>
+</html>
